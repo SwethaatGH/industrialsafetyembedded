@@ -1,5 +1,7 @@
 # Industrial Safety Monitoring System
 
+## Video Drive Link : https://drive.google.com/file/d/1eCu-SYhrc498uGOFyV1ir-LN3STYyLBa/view?usp=sharing
+
 ## Introduction
 Safety is a primary concern in industrial environments, where hazards such as fire outbreaks and electrical failures pose significant risks to workers and infrastructure. Monitoring environmental conditions in real-time is essential for early detection and proactive response to potential hazards. Therefore, there is a need for an innovative solution that seamlessly integrates sensor data collection, real-time analysis and remote monitoring capabilities to enhance safety protocols in industrial settings.
 
