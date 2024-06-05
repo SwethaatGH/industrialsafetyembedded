@@ -20,13 +20,9 @@ Safety is a primary concern in industrial environments, where hazards such as fi
 ## Installation
 To install and set up the Industrial Safety Monitoring System, follow these instructions:
 
-### Step 1: Hardware Setup
+### Hardware Setup
 - Connect the sensors (DHT sensor for temperature and humidity, smoke sensor and voltage sensor) to the ESP32 microcontroller module according to the provided schematic diagram.
 - Power up the ESP32 module and ensure all connections are secure.
-
-### Step 2: Software Setup
-- Clone or download the project repository to your local machine.
-- Upload the provided code (`industry.ino`) to the ESP32 module using the Arduino IDE or another compatible development environment.
 
 ## Usage
 Once the Industrial Safety Monitoring System is installed and configured, it will start monitoring environmental conditions in real-time. The OLED display will show the current sensor readings, and alerts will be triggered if any safety thresholds are exceeded. Additionally, users can access a web interface hosted by the ESP32 module to monitor sensor data remotely from any internet-enabled device.
